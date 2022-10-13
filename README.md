@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehedi</h1>
-<h3 align="center">A passionate Software Developer from Dhaka Bangladesh</h3>
+<h3 align="center">A passionate Software Developer from Dhaka Bangladesh</h3> <br/>
 
 <p align="left"> <a href="https://twitter.com/mehedi_zamadar" target="blank"><img src="https://img.shields.io/twitter/follow/mehedi_zamadar?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
 
