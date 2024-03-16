@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in <a href="https://www.vivasoftltd.com/" target="blank">Vivasoft Limited</a>
 
-- 🌱 I’m currently working on the Frontend (React, Next.js, Express.js)
+- 🌱 I’m currently working on the Frontend (React, Next.js)
 
 - 🤝 I’m available for freelancing.
 
